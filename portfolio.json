@@ -1,136 +1,161 @@
 [
-  {
-    "id": "PSV",
-    "tag": ["development"],
-    "title": "PSV — responsive website development",
-    "link": "https://parthstudent.vc/",
-    "tileImg": "PSV Tile1.jpg",
-    "tileColor": "white",
-    "selected": true,
-    "role": [
-      "Creative Direction",
-      "UI / UX",
-      "Website Development",
-      "Wordpress",
-      "Deployment"
-    ],
-    "client": "Parth Student Venture",
-    "year": "2023",
-    "desc": "The Parth Student Venture website, built with WordPress and Elementor, is designed to be responsive and user-friendly, embodying the organization's values and mission effectively. Through thoughtful UI/UX design, the website ensures a seamless experience for visitors, regardless of the device they use. \n\nIt showcases PSV's commitment to helping early-stage startup founders and student entrepreneurs by providing seed-grant funding opportunities, educational workshops, and domain-specific mentorship. The website's layout and content are strategically crafted to highlight these key offerings, emphasizing PSV's role as Nepal's first student-led startup ecosystem enabler. Through impactful visuals and compelling narratives, the website effectively communicates PSV's mission to turn dreams into reality for aspiring entrepreneurs.",
-    "gallery": [
-      "PSV family.png",
-      "PSV laptop.jpg",
-      "PSV mobile.jpg",
-      "PSV phone.jpg",
-      "PSV tablets.jpg",
-      "PSV - all pages.jpg",
-      "PSV - typography, colours.jpg"
-    ]
-  },
-  {
-    "id": "serene",
-    "tag": ["development", "ui ux design"],
-    "title": "Serene - A Mental Health App",
-    "link": "https://www.instagram.com/motivate.nepalese/",
-    "tileImg": "serene.jpg",
-    "tileColor": "black",
-    "selected": false,
-    "role": [
-      "Creative Direction",
-      "UI / UX",
-      "Website Development",
-      "ReactJS",
-      "Deployment"
-    ],
-    "client": "Motivate Nepalese",
-    "year": "2023",
-    "desc": "Serene, a project developed for Motivate Nepalese as a final year project at Islington College, is a mental health support platform. Utilizing Figma for design and the MERN stack for development, Serene offers a responsive and intuitive user experience. \n\nThe platform includes features such as mental health tests for depression and anxiety, journal creation and editing, and a chat function to connect users with supportive volunteers. Serene also provides information about helplines available in Nepal, contact details of mental health professionals, and access to self-help books. Along with this, the platform also includes an avatar picker with self-updating avatars, adding a personalized touch to the user experience. Through these features, Serene aims to provide a holistic approach to mental health support, empowering individuals to take control of their mental well-being.",
-    "gallery": [
-      "serene - mockup.jpg",
-      "1.jpg",
-      "2.jpg",
-      "3.jpg",
-      "4.jpg",
-      "5.jpg",
-      "6.jpg",
-      "7.jpg",
-      "8.jpg",
-      "9.jpg",
-      "10.jpg",
-      "11.jpg",
-      "12.jpg",
-      "13.jpg",
-      "14.jpg"
-    ]
-  },
-  {
-    "id": "trisara",
-    "tag": ["development", "ui ux design"],
-    "title": "Trisara - dynamic website development",
-    "link": "https://trisaranepal.com/",
-    "tileImg": "trisara.jpg",
-    "tileColor": "black",
-    "selected": true,
-    "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
-    "client": "Trisara",
-    "year": "2023",
-    "desc": "The Trisara Restaurant website, crafted with Figma for design and React for development, prioritizes a seamless user experience. Its responsive design ensures optimal performance across devices, while the dynamic menu page offers an interactive exploration of the restaurant's offerings. \n\nEach outlet of the various franchises is uniquely represented through dynamic URLs, enhancing local presence. The website's UI/UX design focuses on user engagement and easy navigation, reflecting Trisara's commitment to excellence. Through its use of technology and design, the website aims to create a digital experience that mirrors the restaurant's reputation for exceptional service and culinary mastery.",
-    "gallery": ["trisara - mockup.jpg"]
-  },
-  {
-    "id": "instaline",
-    "tag": ["ui ux design"],
-    "title": "Instaline - UI/UX Design",
-    "link": "",
-    "tileImg": "instaline.jpg",
-    "tileColor": "black",
-    "selected": true,
-    "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
-    "client": "Instaline",
-    "year": "2023",
-    "desc": "Instaline's design project, executed using Figma, focuses on creating a visually appealing and user-friendly experience. It includes wireframing, and UI/UX design for a mobile app. The project also involves maintaining the brand guidelines for consistency and coherence across platforms. \n\nEvery page was designed according to client needs, incorporating their vision and requirements into the design process. The project aimed to deliver a cohesive and aesthetically pleasing design that meets the client's needs and reflects their brand identity. Through meticulous planning and execution, the project ensures that the final design not only looks appealing but also provides a seamless user experience.",
-    "gallery": ["instaline - mockup.jpg"]
-  },
-  {
-    "id": "alchi",
-    "tag": ["graphic design"],
-    "title": "Alchi - Social Media",
-    "link": "",
-    "tileImg": "alchi.jpg",
-    "tileColor": "black",
-    "selected": false,
-    "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
-    "client": "Alchi",
-    "year": "2022",
-    "desc": "Alchi's social media posts and stories were made visually captivating using Illustrator. Alchi's values emphasize culture as a bridge connecting people, fostering understanding, respect, and unity. Their mission is to promote cultural appreciation and awareness through engaging board games. The designs aimed to engage the audience and align with Alchi's mission of promoting cultural appreciation and awareness through board games. \n\nThe visually appealing content helped enhance Alchi's online presence, reflecting their values and mission. Through engaging visuals, the company's message of cultural appreciation and unity was effectively communicated to the audience.",
-    "gallery": ["alchi - mockup.jpg", "alchi - prices posts mockups.jpg"]
-  },
-  {
-    "id": "cniyef",
-    "tag": ["graphic design"],
-    "title": "CNIYEF - Social Media",
-    "link": "",
-    "tileImg": "cniyef.jpg",
-    "tileColor": "black",
-    "selected": false,
-    "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
-    "client": "CNIYEF",
-    "year": "2022",
-    "desc": "For CNIYEF, Canva was used to create visually engaging social media posts. The project involved designing two scheduled posts per week, as well as festival posts for Dashain and Tihar. The goal was to enhance CNIYEF's online presence and engage its audience effectively. \n\nThe designs were tailored to reflect the forum's values of grooming young business leaders and fostering innovation. By focusing on creating visually appealing content that resonated with the audience, the project aimed to communicate CNIYEF's mission of empowering young entrepreneurs and shaping the future of Nepal's business landscape.",
-    "gallery": ["cniyef - mockup.jpg"]
-  },
-  {
-    "id": "nmsagro",
-    "tag": ["graphic design"],
-    "title": "NMS Agro - Social Media",
-    "link": "",
-    "tileImg": "nmsagro.jpg",
-    "tileColor": "black",
-    "selected": false,
-    "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
-    "client": "NMS Agro",
-    "year": "2022",
-    "desc": "I created festival-themed posts for NMS Agro using Illustrator, featuring their buffalo mascot, Tikhe. The posts were designed for Dhaan Ropai Diwas, Dashain, Deepawali, and Chhat, aligning with the company's agricultural focus and festive spirit. \n\nNMS Agro, an agricultural trading company, imports fertilizers, pesticides, and agriculture-related products from India for marketing in Nepal. The designs enhanced NMS Agro's online presence, showcasing their festive spirit and agricultural offerings. By incorporating Tikhe, the company's mascot, the posts effectively engaged their audience during these festive occasions, communicating NMS Agro's activities and reinforcing its brand identity.",
-    "gallery": ["nmsagro - mockup.jpg"]
-  }
+    {
+      "id": "PSV",
+      "tag": ["development"],
+      "title": "PSV — responsive website development",
+      "link": "https://parthstudent.vc/",
+      "tileImg": "PSV Tile1.jpg",
+      "tileColor": "white",
+      "selected": true,
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "Wordpress",
+        "Deployment"
+      ],
+      "client": "Parth Student Venture",
+      "year": "2023",
+      "desc": "The Parth Student Venture website, built with WordPress and Elementor, is designed to be responsive and user-friendly, embodying the organization's values and mission effectively. Through thoughtful UI/UX design, the website ensures a seamless experience for visitors, regardless of the device they use. \n\nIt showcases PSV's commitment to helping early-stage startup founders and student entrepreneurs by providing seed-grant funding opportunities, educational workshops, and domain-specific mentorship. The website's layout and content are strategically crafted to highlight these key offerings, emphasizing PSV's role as Nepal's first student-led startup ecosystem enabler. Through impactful visuals and compelling narratives, the website effectively communicates PSV's mission to turn dreams into reality for aspiring entrepreneurs.",
+      "gallery": [
+        "PSV family.png",
+        "PSV laptop.jpg",
+        "PSV mobile.jpg",
+        "PSV phone.jpg",
+        "PSV tablets.jpg",
+        "PSV - all pages.jpg",
+        "PSV - typography, colours.jpg"
+      ]
+    },
+    {
+      "id": "serene",
+      "tag": ["development", "ui ux design"],
+      "title": "Serene - A Mental Health App",
+      "link": "https://www.instagram.com/motivate.nepalese/",
+      "tileImg": "serene.jpg",
+      "tileColor": "black",
+      "selected": false,
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS",
+        "Deployment"
+      ],
+      "client": "Motivate Nepalese",
+      "year": "2023",
+      "desc": "Serene, a project developed for Motivate Nepalese as a final year project at Islington College, is a mental health support platform. Utilizing Figma for design and the MERN stack for development, Serene offers a responsive and intuitive user experience. \n\nThe platform includes features such as mental health tests for depression and anxiety, journal creation and editing, and a chat function to connect users with supportive volunteers. Serene also provides information about helplines available in Nepal, contact details of mental health professionals, and access to self-help books. Along with this, the platform also includes an avatar picker with self-updating avatars, adding a personalized touch to the user experience. Through these features, Serene aims to provide a holistic approach to mental health support, empowering individuals to take control of their mental well-being.",
+      "gallery": [
+        "serene - mockup.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg",
+        "4.jpg",
+        "5.jpg",
+        "6.jpg",
+        "7.jpg",
+        "8.jpg",
+        "9.jpg",
+        "10.jpg",
+        "11.jpg",
+        "12.jpg",
+        "13.jpg",
+        "14.jpg"
+      ]
+    },
+    {
+      "id": "trisara",
+      "tag": ["development", "ui ux design"],
+      "title": "Trisara - dynamic website development",
+      "link": "https://trisaranepal.com/",
+      "tileImg": "trisara.jpg",
+      "tileColor": "black",
+      "selected": true,
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS"
+      ],
+      "client": "Trisara",
+      "year": "2023",
+      "desc": "The Trisara Restaurant website, crafted with Figma for design and React for development, prioritizes a seamless user experience. Its responsive design ensures optimal performance across devices, while the dynamic menu page offers an interactive exploration of the restaurant's offerings. \n\nEach outlet of the various franchises is uniquely represented through dynamic URLs, enhancing local presence. The website's UI/UX design focuses on user engagement and easy navigation, reflecting Trisara's commitment to excellence. Through its use of technology and design, the website aims to create a digital experience that mirrors the restaurant's reputation for exceptional service and culinary mastery.",
+      "gallery": ["trisara - mockup.jpg"]
+    },
+    {
+      "id": "instaline",
+      "tag": ["ui ux design"],
+      "title": "Instaline - UI/UX Design",
+      "link": "",
+      "tileImg": "instaline.jpg",
+      "tileColor": "black",
+      "selected": true,
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS"
+      ],
+      "client": "Instaline",
+      "year": "2023",
+      "desc": "Instaline's design project, executed using Figma, focuses on creating a visually appealing and user-friendly experience. It includes wireframing, and UI/UX design for a mobile app. The project also involves maintaining the brand guidelines for consistency and coherence across platforms. \n\nEvery page was designed according to client needs, incorporating their vision and requirements into the design process. The project aimed to deliver a cohesive and aesthetically pleasing design that meets the client's needs and reflects their brand identity. Through meticulous planning and execution, the project ensures that the final design not only looks appealing but also provides a seamless user experience.",
+      "gallery": ["instaline - mockup.jpg"]
+    },
+    {
+      "id": "alchi",
+      "tag": ["graphic design"],
+      "title": "Alchi - Social Media",
+      "link": "",
+      "tileImg": "alchi.jpg",
+      "tileColor": "black",
+      "selected": false,
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS"
+      ],
+      "client": "Alchi",
+      "year": "2022",
+      "desc": "Alchi's social media posts and stories were made visually captivating using Illustrator. Alchi's values emphasize culture as a bridge connecting people, fostering understanding, respect, and unity. Their mission is to promote cultural appreciation and awareness through engaging board games. The designs aimed to engage the audience and align with Alchi's mission of promoting cultural appreciation and awareness through board games. \n\nThe visually appealing content helped enhance Alchi's online presence, reflecting their values and mission. Through engaging visuals, the company's message of cultural appreciation and unity was effectively communicated to the audience.",
+      "gallery": ["alchi - mockup.jpg", "alchi - prices posts mockups.jpg"]
+    },
+    {
+      "id": "cniyef",
+      "tag": ["graphic design"],
+      "title": "CNIYEF - Social Media",
+      "link": "",
+      "tileImg": "cniyef.jpg",
+      "tileColor": "black",
+      "selected": false,
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS"
+      ],
+      "client": "CNIYEF",
+      "year": "2022",
+      "desc": "For CNIYEF, Canva was used to create visually engaging social media posts. The project involved designing two scheduled posts per week, as well as festival posts for Dashain and Tihar. The goal was to enhance CNIYEF's online presence and engage its audience effectively. \n\nThe designs were tailored to reflect the forum's values of grooming young business leaders and fostering innovation. By focusing on creating visually appealing content that resonated with the audience, the project aimed to communicate CNIYEF's mission of empowering young entrepreneurs and shaping the future of Nepal's business landscape.",
+      "gallery": ["cniyef - mockup.jpg"]
+    },
+    {
+      "id": "nmsagro",
+      "tag": ["graphic design"],
+      "title": "NMS Agro - Social Media",
+      "link": "",
+      "tileImg": "nmsagro.jpg",
+      "tileColor": "black",
+      "selected": false,
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS"
+      ],
+      "client": "NMS Agro",
+      "year": "2022",
+      "desc": "I created festival-themed posts for NMS Agro using Illustrator, featuring their buffalo mascot, Tikhe. The posts were designed for Dhaan Ropai Diwas, Dashain, Deepawali, and Chhat, aligning with the company's agricultural focus and festive spirit. \n\nNMS Agro, an agricultural trading company, imports fertilizers, pesticides, and agriculture-related products from India for marketing in Nepal. The designs enhanced NMS Agro's online presence, showcasing their festive spirit and agricultural offerings. By incorporating Tikhe, the company's mascot, the posts effectively engaged their audience during these festive occasions, communicating NMS Agro's activities and reinforcing its brand identity.",
+      "gallery": ["nmsagro - mockup.jpg", "nmsagro-posts.jpg"]
+    }
 ]
