@@ -290,7 +290,7 @@
     "tag": ["development", "ui ux design"],
     "title": "Sewa Printing Press",
     "link": "https://beta.sewapress.com.np/",
-    "tileImg": "",
+    "tileImg": "sewa.jpg",
     "selected": false,
     "role": [
       "Creative Direction",
@@ -305,7 +305,7 @@
     "client": "Sewa Printing Press",
     "year": 2024,
     "desc": "For Sewa Printing Press, I designed and developed a hybrid website that reflects the company’s professional printing services. The design, created in Figma and developed in ReactJS with Tailwind, includes pages for services, samples, clients, and more. The website is fully responsive, ensuring a seamless experience on both desktop and mobile devices. The sleek UI/UX design highlights the company's dedication to cutting-edge technology in the printing industry, with a focus on delivering top-tier printing solutions to businesses. Sewa Printing Press’s mission is to provide high-quality printing services, and the website effectively communicates this through a professional, streamlined layout.",
-    "gallery": []
+    "gallery": ["sewa - mockup.jpeg", "sewa 1.jpeg"]
   },
   {
     "id": "Eternity",
