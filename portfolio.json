@@ -186,7 +186,7 @@
   },
   {
     "id": "ElderCare",
-    "tag": ["ui ux design"],
+    "tag": ["ui ux design", "practice"],
     "title": "ElderCare",
     "link": "https://www.figma.com/proto/5tMR7YU2c9iOYX9zvvNALj/ULURU?page-id=0%3A1&node-id=6-1731&starting-point-node-id=6%3A1731&t=neyU9yJCQ4C4CU9f-1",
     "tileImg": "",
@@ -205,7 +205,7 @@
   },
   {
     "id": "Techtagon",
-    "tag": ["ui ux design"],
+    "tag": ["ui ux design", "practice"],
     "title": "Techtagon",
     "link": "https://www.figma.com/design/jILTenOyaE5Ug6n0PqHAdY/Octacore?node-id=1234-615&t=uFNvQbT1gHFThSOZ-1",
     "tileImg": "",
@@ -246,7 +246,7 @@
   },
   {
     "id": "TimeWatch",
-    "tag": ["ui ux design"],
+    "tag": ["ui ux design", "practice"],
     "title": "TimeWatch",
     "link": "https://www.figma.com/design/KSevvRTWlOjMqqu3mfcApx/Achieve-|-CASIO?node-id=3-20&t=BlGeyPa0T4lkzP9H-1",
     "tileImg": "",
@@ -304,12 +304,12 @@
     ],
     "client": "Sewa Printing Press",
     "year": 2024,
-    "desc": "For Sewa Printing Press, I designed and developed a hybrid website that reflects the company’s professional printing services. The design, created in Figma and developed in ReactJS with Tailwind, includes pages for services, samples, clients, and more. The website is fully responsive, ensuring a seamless experience on both desktop and mobile devices. The sleek UI/UX design highlights the company's dedication to cutting-edge technology in the printing industry, with a focus on delivering top-tier printing solutions to businesses. Sewa Printing Press’s mission is to provide high-quality printing services, and the website effectively communicates this through a professional, streamlined layout.",
+    "desc": "For Sewa Printing Press, I designed and developed a hybrid website that reflects the company’s professional printing services. The design, created in Figma and developed in ReactJS with Tailwind, includes pages for services, samples, clients, and more. The website is fully responsive, ensuring a seamless experience on both desktop and mobile devices. The sleek UI/UX design highlights the company's dedication to cutting-edge technology in the printing industry, with a focus on delivering top-tier printing solutions ,to businesses. Sewa Printing Press’s mission is to provide high-quality printing services, and the website effectively communicates this through a professional, streamlined layout.",
     "gallery": ["sewa - mockup.jpeg", "sewa 1.jpeg"]
   },
   {
     "id": "eternity",
-    "tag": ["development", "ui ux design"],
+    "tag": ["development", "ui ux design", "practice"],
     "title": "Eternity",
     "link": "https://kritydangol.com.np/eternity/",
     "tileImg": "eternity.jpg",
@@ -335,7 +335,7 @@
   },
   {
     "id": "VerdantCode",
-    "tag": ["development"],
+    "tag": ["development", "practice"],
     "title": "VerdantCode",
     "link": "https://www.figma.com/design/XygP3atvwol5ZOzrUibTjX/Ocdy?node-id=106-2&t=o643nkMpIKnMuHja-1",
     "tileImg": "",
