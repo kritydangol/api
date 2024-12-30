@@ -164,7 +164,7 @@
     "tag": ["ui ux design"],
     "title": "UN Website - Newsletter",
     "link": "https://www.figma.com/design/YHOsC7fHWgJrRqRGVLtRTr/UN-Bulletin%3A-Backend-Wireframe?node-id=0-1&node-type=canvas&t=SDSbkawU3qCL1WRn-0",
-    "tileImg": "",
+    "tileImg": "UNWeb.jpeg",
     "selected": false,
     "role": [
       "Creative Direction",
@@ -176,7 +176,7 @@
     "client": "United Nations",
     "year": 2021,
     "desc": "Working with the United Nations, I was responsible for the creative direction, UI/UX design, and prototyping of a newsletter archive website. The design was created using Figma, emphasizing intuitive navigation and accessibility to a wide range of users. The website serves as a digital archive for all newsletters published by United Nations Nepal, ensuring easy access to important information and updates. The interface was designed to be both visually appealing and user-friendly, aligning with the organization's values of promoting sustainable and inclusive growth, social development, and disaster resilience. This project aimed to deliver a platform that simplifies the process of accessing UN newsletters while maintaining the professional and informative tone expected of such an esteemed organization.",
-    "gallery": [],
+    "gallery": ["UNWeb - mockup.jpeg", "UNWeb 1.jpeg"],
     "embed": true
   },
   {
