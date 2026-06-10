@@ -355,7 +355,7 @@
     "tag": ["development"],
     "title": "Foodcore",
     "link": "https://www.figma.com/proto/gRvMGTp9F1BJkHeWpc2VNF?node-id=0-1&t=4fyra0NN8tWYsJdo-6",
-    "tileImg": "",
+    "tileImg": "foodcore.jpg",
     "selected": false,
     "role": [
       "Creative Direction",
@@ -367,7 +367,7 @@
     "client": "Foodcore",
     "year": 2024,
     "desc": "For Foodcore, I designed and developed a dynamic, responsive website using ReactJS and Tailwind. The focus was on creating an intuitive UI/UX design that highlights the brand’s commitment to delivering high-quality food services. The website includes a clean landing page, with sections dedicated to menu offerings, services, and customer testimonials. \n\nEach page was designed to enhance user engagement, with smooth transitions and easy-to-navigate content. The use of Tailwind for styling ensured a modern, polished look, and the responsive design guarantees a seamless experience across all devices. Foodcore aims to revolutionize the food industry, and the website reflects that mission.",
-    "gallery": [],
+    "gallery": ["foodcore - mockup.png", "foodcore - all pages.png"],
     "embed": true
   },
   {
